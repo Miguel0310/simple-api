@@ -1,0 +1,113 @@
+!SESSION 2024-07-23 18:35:26.921 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-23 18:36:07.946
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-23 19:03:29.172
+!MESSAGE Logback config file: D:\codigos\Java\demo\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-07-23 19:03:29.567
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-23 19:03:29.567
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-07-23 19:03:29.816
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-23 19:03:29.816
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-07-23 19:03:29.851
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-23 19:03:29.851
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2024-07-23 19:03:30.349
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2024-07-23 19:03:30.368
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-23 19:03:38.329
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Migue'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.877
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.inlinesearch,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.878
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.patches,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.878
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.878
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup.workspace,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.878
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.platform,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.879
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.meexplorer.jdt,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.879
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.core.common.rss,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.879
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.json.simple,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.879
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.startup,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:46.879
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.meexplorer,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:50.134
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.base.win,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:50.424
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.core,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:50.705
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.css,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:51.010
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.elevation.win32,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:51.528
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.epl,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:53.532
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:53.598
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.scrollbar.win,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:54.094
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.theming.ui,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:58.197
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.ui.common.platform,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:58.237
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webclipse.evergreen,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:58.270
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipse.webicons,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:58.482
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,com.genuitec.eclipsecolortheme.api,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:59.067
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.core.feature,2024.2.0.202406171634.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-07-23 19:03:59.569
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,com.genuitec.eclipse.theming.feature,2024.2.0.202406171634.
