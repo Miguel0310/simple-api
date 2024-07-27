@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.demo.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -24,7 +24,7 @@ public class UserController {
         return userService.getUserById(id);
     }
 
-    @PostMapping
+    @PostMapping(consumes = "application/json", produces = "application/json")
     public User createUser(@RequestBody User user) {
         return userService.createUser(user);
     }
